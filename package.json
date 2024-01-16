@@ -1,15 +1,32 @@
 {
-  "name": "salesforce-screenpop-helper",
+  "name": "wxcc-to-sfdc-screenpop",
+  "description": "Chromium browser extension to open Webex Contact Center screen pops in Salesforce (SFDC).",
   "private": true,
+  "author": "WXSD Sales <wxsd@external.cisco.com>",
+  "contributors": [
+    "Ashesh Singh <ask@mrsinh.com> (https://mrsinh.com)"
+  ],
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "lint": "prettier --ignore-path .gitignore --check . && eslint --ignore-path .gitignore .",
+    "format": "prettier --ignore-path .gitignore --plugin-search-dir . --write .",
+    "prepare": "husky install"
   },
   "devDependencies": {
+    "@commitlint/cli": "^18.4.4",
+    "@commitlint/config-conventional": "^18.4.4",
     "@crxjs/vite-plugin": "^2.0.0-beta.22",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "husky": "^8.0.3",
+    "prettier": "3.2.2",
     "vite": "^5.0.0"
   }
 }
