@@ -63,7 +63,7 @@ Open a new terminal window and follow the instructions below to setup the projec
    npm run build
    ```
 
-4. Install the Extension.
+4. Install the extension:
    - You should now see some files in the `dist` directory.
    - Follow your respective [browser's guide][load-unpacked] to install the extension from this directory.
 
