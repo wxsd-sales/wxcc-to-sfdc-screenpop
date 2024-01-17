@@ -23,6 +23,8 @@ longer having to manage two separate SFDC/WxCC tabs and significantly reduced pa
 - [Overview](#overview)
 - [Setup](#setup)
 - [Demo](#demo)
+- [Disclaimer](#disclaimer)
+- [License](#license)
 - [Support](#support)
 
 </details>
@@ -73,6 +75,16 @@ do note that some changes need re-installation of the extension to take effect.
 ## Demo
 
 A video where we demo this PoC is available on Vidcast — TODO.
+
+## Disclaimer
+
+Everything included in this repository is for demo and Proof of Concept (PoC) purposes only. Use of the PoC is solely
+at your own risk. This project may contain links to external content, which we do not warrant, endorse, or assume
+liability for. This project is for Cisco Webex use-case, but is not official Cisco Webex branded project.
+
+## License
+
+[MIT](./LICENSE)
 
 ## Support
 
