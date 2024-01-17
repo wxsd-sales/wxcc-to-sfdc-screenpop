@@ -40,8 +40,8 @@ function, it enables the display of [WxCC ScreenPop][wxcc-screenpop] directly wi
 These instructions assume that you have:
 
 - Administrator access to a Chromium based browser where you can install the extension, locally in Developer Mode.
-- [Node.js installed](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs) and running on a Windows
-  (via WSL2), macOS, or Linux machine.
+- [Node.js installed](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs) on a Windows (via WSL2),
+  macOS, or Linux machine.
 
 Open a new terminal window and follow the instructions below to setup the project locally for development/demo.
 
