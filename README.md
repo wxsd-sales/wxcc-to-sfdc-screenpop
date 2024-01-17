@@ -9,7 +9,10 @@ longer having to manage two separate SFDC/WxCC tabs and significantly reduced pa
 
 <p align="center">
    <a href="" target="_blank">
-       <img src="" alt="salesforce-screenpop-helper"/>
+       <img 
+          src="https://github.com/wxsd-sales/wxcc-to-sfdc-screenpop/assets/6129517/f71b9888-9c78-4fce-9e95-49ec1e51f45c" 
+          alt="salesforce-screenpop-helper"
+          />
     </a>
 </p>
 
