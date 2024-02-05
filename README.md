@@ -74,7 +74,7 @@ do note that some changes need re-installation of the extension to take effect.
 
 ## Demo
 
-A video where we demo this PoC is available on Vidcast: [https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223](https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223).
+A video where we demo this PoC is available on Vidcast — [https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223](https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223).
 
 ## Disclaimer
 
