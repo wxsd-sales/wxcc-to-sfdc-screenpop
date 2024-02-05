@@ -8,10 +8,10 @@ need for a separate browser window or tab. As a result, Salesforce users enjoy a
 longer having to manage two separate SFDC/WxCC tabs and significantly reduced page load time.
 
 <p align="center">
-   <a href="" target="_blank">
+   <a href="https://github.com/wxsd-sales/wxcc-to-sfdc-screenpop/assets/6129517/cdd59c26-9c4e-4c63-a10e-e3a823ff4ce2" target="_blank">
        <img 
-          src="https://github.com/wxsd-sales/wxcc-to-sfdc-screenpop/assets/6129517/f71b9888-9c78-4fce-9e95-49ec1e51f45c" 
-          alt="salesforce-screenpop-helper"
+          src="https://github.com/wxsd-sales/wxcc-to-sfdc-screenpop/assets/6129517/cdd59c26-9c4e-4c63-a10e-e3a823ff4ce2" 
+          alt="wxcc-to-sfdc-screenpop"
           />
     </a>
 </p>
@@ -74,7 +74,7 @@ do note that some changes need re-installation of the extension to take effect.
 
 ## Demo
 
-A video where we demo this PoC is available on Vidcast — TODO.
+A video where we demo this PoC is available on Vidcast: [https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223](https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223).
 
 ## Disclaimer
 
