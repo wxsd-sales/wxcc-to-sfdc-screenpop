@@ -46,9 +46,7 @@ const manifest = defineManifest(async (env) => {
           'https://desktop.wxcc-anz1.cisco.com/*'
         ]
       }
-    ],
-    // This is required to load the `src/content/inject.js` file as a script source within the WXCC frame
-    permissions: ['webNavigation']
+    ]
   };
 });
 
