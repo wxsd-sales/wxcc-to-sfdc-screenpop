@@ -58,9 +58,7 @@ if (document.URL.toLowerCase().match(/^https:\/\/desktop\.wxcc.*\.cisco\.com/)) 
 
   // Observe the Webex Contact Center Connector node for changes
   mutationObserver.observe(app, {
-    attributes: true,
     childList: true,
-    subtree: true,
-    characterData: true
+    subtree: true
   });
 }
