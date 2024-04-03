@@ -12,14 +12,12 @@ const manifest = defineManifest(async (env) => {
     version: `${major}.${minor}.${patch}.${label}`,
     version_name: version,
     description,
-    action: {
-      default_icon: {
-        16: 'favicon-16.png',
-        24: 'favicon-24.png',
-        32: 'favicon-32.png',
-        48: 'favicon-48.png',
-        128: 'favicon-128.png'
-      }
+    icons: {
+      16: 'favicon-16.png',
+      24: 'favicon-24.png',
+      32: 'favicon-32.png',
+      48: 'favicon-48.png',
+      128: 'favicon-128.png'
     },
     content_scripts: [
       {
