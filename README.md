@@ -8,10 +8,10 @@ need for a separate browser window or tab. As a result, Salesforce users enjoy a
 longer having to manage two separate SFDC/WxCC tabs and significantly reduced page load time.
 
 <p align="center">
-   <a href="https://github.com/wxsd-sales/wxcc-to-sfdc-screenpop/assets/6129517/cdd59c26-9c4e-4c63-a10e-e3a823ff4ce2" target="_blank">
+   <a href="https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223" target="_blank">
        <img 
-          src="https://github.com/wxsd-sales/wxcc-to-sfdc-screenpop/assets/6129517/cdd59c26-9c4e-4c63-a10e-e3a823ff4ce2" 
-          alt="wxcc-to-sfdc-screenpop"
+          src="https://github.com/wxsd-sales/wxcc-to-sfdc-screenpop/assets/6129517/f76d918c-2a3f-478f-b2f6-3f13b1285fb0" 
+          alt="wxcc-to-sfdc-screenpop-demo"
           />
     </a>
 </p>
@@ -88,7 +88,7 @@ liability for. This project is for Cisco Webex use-case, but is not official Cis
 
 ## Support
 
-Please reach out to the WXSD team at [wxsd@external.cisco.com](mailto:wxsd@external.cisco.com?cc=ashessin@cisco.com&subject=Azure%20Group%20Sync) or contact me on Webex (ashessin@cisco.com).
+Please reach out to the WXSD team at [wxsd@external.cisco.com](mailto:wxsd@external.cisco.com?cc=ashessin@cisco.com&subject=WxCC%20to%20SFDC%20Screenpop) or contact me on Webex (ashessin@cisco.com).
 
 [wxcc-screenpop]: https://portal-v2.wxcc-us1.cisco.com/ccone-help-new/index.html#!screen-pop.html
 
